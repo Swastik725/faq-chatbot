@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions sent to your registered email."
+  },
+  {
+    "question": "How can I check my attendance?",
+    "answer": "You can check your attendance through the student portal under the Attendance section."
+  },
+  {
+    "question": "When are semester exams conducted?",
+    "answer": "Semester exams are usually conducted at the end of each academic semester."
+  },
+  {
+    "question": "How do I apply for a scholarship?",
+    "answer": "Scholarship applications can be submitted through the student portal during the application period."
+  },
+  {
+    "question": "Where can I download my admit card?",
+    "answer": "Admit cards can be downloaded from the Examination section of the student portal."
+  },
+  {
+    "question": "How do I pay my tuition fees?",
+    "answer": "Tuition fees can be paid online through the Fees section of the student portal."
+  },
+  {
+    "question": "What should I do if I forget my student ID?",
+    "answer": "Contact the administration office with a valid identity proof to retrieve your student ID."
+  },
+  {
+    "question": "How can I access the university library?",
+    "answer": "You can access the library using your student ID card during library working hours."
+  },
+  {
+    "question": "Where can I view my exam results?",
+    "answer": "Exam results are published in the Results section of the student portal."
+  },
+  {
+    "question": "How do I register for courses?",
+    "answer": "Course registration can be completed online through the Course Registration portal."
+  },
+  {
+    "question": "Can I change my registered courses?",
+    "answer": "Yes, course changes are allowed during the add-drop period announced by the university."
+  },
+  {
+    "question": "How can I contact faculty members?",
+    "answer": "Faculty contact details are available on the university website and departmental pages."
+  },
+  {
+    "question": "What are the library working hours?",
+    "answer": "The library is open from 8:00 AM to 8:00 PM on weekdays."
+  },
+  {
+    "question": "How do I apply for a hostel?",
+    "answer": "Hostel applications can be submitted through the Hostel Management portal."
+  },
+  {
+    "question": "How can I update my personal information?",
+    "answer": "Personal information can be updated through your student profile settings."
+  },
+  {
+    "question": "Where do I get my academic transcript?",
+    "answer": "Academic transcripts can be requested through the registrar's office or student portal."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "answer": "Admission typically requires academic certificates, identification proof, photographs, and application forms."
+  },
+  {
+    "question": "How do I submit assignments online?",
+    "answer": "Assignments can be uploaded through the Learning Management System before the deadline."
+  },
+  {
+    "question": "How can I access online classes?",
+    "answer": "Online classes can be accessed through the university's Learning Management System."
+  },
+  {
+    "question": "What should I do if I miss an exam?",
+    "answer": "You should contact the examination office immediately and provide valid supporting documents."
+  },
+  {
+    "question": "How do I get a bonafide certificate?",
+    "answer": "Bonafide certificates can be requested through the student services portal."
+  },
+  {
+    "question": "Can I apply for revaluation of my answer sheet?",
+    "answer": "Yes, revaluation requests can be submitted within the specified deadline after results are announced."
+  },
+  {
+    "question": "How do I report technical issues with the portal?",
+    "answer": "Technical issues can be reported to the IT helpdesk through email or the support ticket system."
+  },
+  {
+    "question": "Where can I find the academic calendar?",
+    "answer": "The academic calendar is available on the university website under the Academics section."
+  },
+  {
+    "question": "How do I join student clubs and societies?",
+    "answer": "You can join student clubs by registering through the Student Activities portal."
+  },
+  {
+    "question": "How can I book a counseling session?",
+    "answer": "Counseling sessions can be booked through the Student Wellness Center."
+  },
+  {
+    "question": "What is the procedure for obtaining a degree certificate?",
+    "answer": "Degree certificates are issued after successful completion of the program and clearance of all dues."
+  },
+  {
+    "question": "How do I request a leave of absence?",
+    "answer": "Leave requests can be submitted through the student portal along with supporting documents."
+  },
+  {
+    "question": "How can I access campus Wi-Fi?",
+    "answer": "Campus Wi-Fi can be accessed using your student credentials provided by the IT department."
+  },
+  {
+    "question": "Who should I contact for placement assistance?",
+    "answer": "You should contact the Training and Placement Cell for placement-related queries."
+  }
+]
