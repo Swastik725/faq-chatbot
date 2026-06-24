@@ -62,7 +62,7 @@ faq-chatbot/
 
 ## Screenshots
 
-![Chat Interface](./screenshots/image1.png)
+![Chat Interface](./screenshots/image.png)
 
 ![Chat Interface](./screenshots/image2.png)
 
