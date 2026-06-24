@@ -60,6 +60,12 @@ faq-chatbot/
 
 ---
 
+## Screenshots
+
+![Chat Interface](./screenshots/image1.png)
+
+![Chat Interface](./screenshots/image2.png)
+
 ## ⚙️ How It Works
 
 1. The user enters a question in the chatbot interface.
@@ -149,7 +155,6 @@ http://localhost:5173
 * Chat history persistence
 
 ---
+## Purpose
 
-## 📄 License
-
-This project is developed for educational purposes.
+Developed as part of the CodeAlpha Internship Program.
